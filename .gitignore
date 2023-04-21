@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Loaded assets
+Content/Megascans/*
+Content/ControlRig/*
+Content/EF_Lewis/*
+Content/Geometry/*
+Content/MSPresets/*
+Content/
